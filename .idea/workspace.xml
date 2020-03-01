@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40ddd12c-3d6a-41e2-9522-fce8c9926ff5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNDEZHXX2yA6Vs9N2XCjsmOirA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Google/src/excellFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/utility" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/databases" />
+      <recent name="$PROJECT_DIR$/Generic/BrowserDriver/mac" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HomepageStepdefinition">
+    <configuration name="Feature: homePage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/letskodeit/src/test/java/letsKodeItFeature/homePage.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="letskodeit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: homePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Test  Confirm cancelButton" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/letskodeit/src/test/java/letsKodeItFeature/homePage.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="letskodeit" />
+      <option name="NAME_FILTER" value="^Test  Confirm cancelButton$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Test  Confirm cancelButton$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Test  Confirm cancelButton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleRunner" />
+      <option name="MAIN_CLASS_NAME" value="googleRunner.GoogleRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageStepdefinition" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="letskodeit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="stepDefinition.HomepageStepdefinition" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testSearchFromExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHomePage" />
+      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
+      <option name="METHOD_NAME" value="testSearchFromExcel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomepageStepdefinition" />
+        <item itemvalue="Cucumber java.Feature: homePage" />
+        <item itemvalue="Cucumber java.Scenario: Test  Confirm cancelButton" />
+        <item itemvalue="TestNG.GoogleRunner" />
+        <item itemvalue="TestNG.TestHomePage.testSearchFromExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ddd12c-3d6a-41e2-9522-fce8c9926ff5" name="Default Changelist" comment="" />
+      <created>1582774047418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582774047418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582997211884">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="575" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.777@0.23.1280.777" timestamp="1582997211884" />
+    <state x="668" y="40" key="#com.intellij.ide.util.MemberChooser" timestamp="1582778108488">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="668" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1582778108488" />
+    <state x="668" y="62" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1582777879595" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1582867722612">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1582867722612" />
+    <state width="605" height="184" key="GridCell.Tab.0.bottom" timestamp="1583039590930">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1228" height="184" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582913011619" />
+    <state width="605" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583039590930" />
+    <state width="605" height="184" key="GridCell.Tab.0.center" timestamp="1583039590929">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1228" height="184" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582913011618" />
+    <state width="605" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583039590929" />
+    <state width="605" height="184" key="GridCell.Tab.0.left" timestamp="1583039590929">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1228" height="184" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582913011617" />
+    <state width="605" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583039590929" />
+    <state width="605" height="184" key="GridCell.Tab.0.right" timestamp="1583039590930">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1228" height="184" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582913011618" />
+    <state width="605" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583039590930" />
+    <state width="550" height="231" key="GridCell.Tab.1.bottom" timestamp="1583001957158">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="550" height="231" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583001957158" />
+    <state width="550" height="231" key="GridCell.Tab.1.center" timestamp="1583001957157">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="550" height="231" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1583001957157" />
+    <state width="550" height="231" key="GridCell.Tab.1.left" timestamp="1583001957156">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="550" height="231" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1583001957156" />
+    <state width="550" height="231" key="GridCell.Tab.1.right" timestamp="1583001957157">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="550" height="231" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1583001957157" />
+    <state x="0" y="43" key="new project wizard" timestamp="1582948525298">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="43" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1582948525298" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,417 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 76641647000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:48:58.654Z",
+        "line": 7,
+        "name": "Test PracticeButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-practicebutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1670041000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "click at practice Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_practice_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 725012000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close Browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 11284355000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:50:17.845Z",
+        "line": 11,
+        "name": "Test SelectButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-selectbutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7042055000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "click at Select Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_Select_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 272961000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "close Browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4558660000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:50:36.450Z",
+        "line": 15,
+        "name": "Test RadioButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-radiobutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4184814000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "click at Radion Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_Radion_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 122609000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "close the Browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5487873000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:50:45.323Z",
+        "line": 19,
+        "name": "Test DropDownButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-dropdownbutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2088631000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "click at DropDown Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_DropDown_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3341746000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "select benz from dropDownitems",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.select_benz_from_dropDownitems()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 196717000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "close the browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6271619000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:50:56.442Z",
+        "line": 24,
+        "name": "Test MultipleSelectButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-multipleselectbutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5286380000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "click at Multipleslect Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_Multipleslect_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113648000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "close the browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4922147000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:51:08.118Z",
+        "line": 28,
+        "name": "Test checkBoxButton",
+        "description": "",
+        "id": "letskodeit-homepage;test-checkboxbutton",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5376484000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "click at checkBox Button",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_checkBox_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 356421000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "close the Browser",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "LetsKodeIt HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6490164000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am at LetsKodeIt HomePage",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.i_am_at_LetsKodeIt_HomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-02-29T03:51:18.778Z",
+        "line": 32,
+        "name": "Test SwitchWindow",
+        "description": "",
+        "id": "letskodeit-homepage;test-switchwindow",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2850285000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "click at openNewWindow",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.click_at_openNewWindow()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3386971000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Close the opened Window",
+            "match": {
+              "location": "stepDefinition.HomepageStepdefinition.close_the_opened_Window()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "LetsKodeIt HomePage",
+    "description": "",
+    "id": "letskodeit-homepage",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/letsKodeItFeature/homePage.feature",
+    "tags": []
+  }
+]
